@@ -1,5 +1,5 @@
 
-- 📰 5 Years HTML/CSS Experience, 2 Years Experience with Python and Django
+- 📰 5 Years HTML/CSS Experience, 3 Years Experience with Python and Django
 - 🔭 I’m currently working on my Updated Portfolio Page
 - 🌱 I’m currently learning Flask and SQLAlchemy
 - 📖 Currently Reading: Automate the Boring Things With Python by Al Sweigart, and Remote by Jason Fried and DHH
