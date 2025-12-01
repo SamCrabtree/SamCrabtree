@@ -1,8 +1,8 @@
 
-- 📰 5 Years HTML/CSS Experience, 3 Years Experience with Python and Django
-- 🔭 I’m currently working on my Updated Portfolio Page
-- 🌱 I’m currently learning Flask and SQLAlchemy
-- 📖 Currently Reading: Automate the Boring Things With Python by Al Sweigart, and Remote by Jason Fried and DHH
+- 📰 8 Years HTML/CSS Experience, 5 Years Experience with Python and Django
+- 🔭 I’m currently working on www.MyLifeChurch.com 
+- 🌱 I’m currently learning Wagtail 
+- 📖 Currently Reading: Evangelical Convictions and Evangelical Heritage (EFCA Required Reading For Ministry Licensing) 
 - 📚 Recent Reads: Will Vincent's Django For Beginners, Professionals, and API's  
 - 📫 How to reach me: Samuel.Crabtree@hey.com
 - ⚡ Fun fact: I'm a KY Colonel!
